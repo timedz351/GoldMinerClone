@@ -6,7 +6,7 @@ Code is in SLOVAK and has global variables.
 I have written my first line of code in the beginning of that semester, that's why haha
 
 ## About
-Clone of the legendaty Gold Miner flash game. Created using only tkinter package.
+Clone of the legendary Gold Miner flash game. Created using only tkinter package.
 
 The game include a level designer for additional 3 levels, after playing first 2 or 3 premade ones.
 
