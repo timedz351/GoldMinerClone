@@ -7,7 +7,7 @@ I have written my first line of code in the beginning of that semester, that's w
 
 ## About
 Clone of the legendary Gold Miner flash game. Created using only tkinter package.
-
+Everything is made by me.
 The game include a level designer for additional 3 levels, after playing first 2 or 3 premade ones.
 
 ## Sreenshots from
