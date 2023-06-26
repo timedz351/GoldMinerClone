@@ -1,0 +1,6 @@
+()
+[]
+[]
+(170, 310, 268, 382, 318, 418, 461, 332, 430, 406, 588, 430, 623, 316, 317, 304, 360, 354, 441, 239)
+['gold2', 'gold2', 'gold2', 'gold2', 'stone1', 'stone1', 'stone1', 'gold1', 'gold1', 'gold1']
+['gold1', 'gold2', 'gold3', 'gold4', 'stone5', 'stone6', 'stone7', 'gold8', 'gold9', 'gold10']
